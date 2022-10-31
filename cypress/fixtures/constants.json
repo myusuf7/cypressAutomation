@@ -1,0 +1,24 @@
+{
+  "baseURL": "www.i6.io",
+  "homepageTitle": "i6 Group - Aviation Fuel Management Software",
+  "homepageHeading": "Fuel management technology for smarter and greener operations.",
+  "homepageSubHeading": "We’re revolutionising fuel management for airlines, airports, and into-plane operators by digitalising the entire fuel supply chain. Our secure technology helps reduce both operational costs and carbon emissions.",
+
+  "aboutPageTitle": "About - i6 Group",
+  "aboutPageHeading": "Smart.Collaborative.",
+  "aboutPageSubHeading": "Pioneering.",
+  "requestADemoCTA": "Request a Demo",
+
+  "contactUsPageTitle": "Contact Us - i6 Group",
+  "contactUsPageHeading": "Get in touch.",
+  "firstName": "Test",
+  "lastName": "Quality",
+  "company": "i6",
+  "email": "aaaa88888@gmail.com",
+  "textBoxInput": "testing",
+  "enquireType": "Careers",
+  "verificationText" : "Thank you! Your submission has been received!",
+  "marketingConsentText": "By ticking this box, you are consenting to i6 contacting you. You can opt-out at any time."
+
+}
+
